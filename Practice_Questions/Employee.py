@@ -17,6 +17,6 @@ class Employee:
 
 s1 = Employee("John", 101, 20, 50000, ["Python", "Java"])
 s1.display()
-    
+
 s2 = Employee("Alice", 102, 21, 60000, ["C++", "JavaScript"])
 s2.display()
